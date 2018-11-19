@@ -1,0 +1,18 @@
+The accuracy with activate function sigmoid, hidden units 5, learning rate 0.010
+Train Accuracy: 0.98333335
+Test Accuracy: 1.0
+The accuracy with activate function relu, hidden units 6, learning rate 0.010
+Train Accuracy: 0.96666664
+Test Accuracy: 1.0
+The accuracy with activate function tanh, hidden units 6, learning rate 0.010
+Train Accuracy: 0.96666664
+Test Accuracy: 1.0
+The accuracy with activate function tanh, hidden units 5, learning rate 0.010
+Train Accuracy: 0.975
+Test Accuracy: 1.0
+The accuracy with activate function relu, hidden units 5, learning rate 0.010
+Train Accuracy: 0.975
+Test Accuracy: 1.0
+The accuracy with activate function relu, hidden units 5, learning rate 0.010
+Train Accuracy: 0.975
+Test Accuracy: 1.0
